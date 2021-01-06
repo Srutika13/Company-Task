@@ -1,1 +1,2 @@
 # Company-Task
+This is my first repository in Github. So I have uploaded my first file which is the Website. I have downloaded the template and made some changes. The website is based on the IT Company. I have added some information and images. I have added some CSS part in which the background of the information we can see the colors. And images are getting zoomed after the cursor placed on image. In other after placing cursor on image the get highlighted and we can see the name of company.
